@@ -19,6 +19,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     line-height:28px;
+    background-color: royalblue;
    
 }
 .set-radius-zero {
@@ -41,6 +42,9 @@ body {
     padding-bottom:30px;
 }
 
+.photo:hover{
+    background-color: teal;
+}
 
 /* =============================================================
    NAVBAR & MENU STYLES
